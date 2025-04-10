@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediatoRTestApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1908c838b49b4c6ed1bc36fa6b68406d0747a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+643014aef0a44c1de05260a3a2a7ae05ba91193a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediatoRTestApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediatoRTestApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
