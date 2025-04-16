@@ -1,7 +1,27 @@
-MedatoRExample/
-obj/Debug/net8.0/MediatoRTestApi.AssemblyInfo.cs
-obj/Debug/net8.0/MediatoRTestApi.AssemblyInfoInputs.cache
-obj/Debug/net8.0/MediatoRTestApi.AssemblyInfo.cs
-/obj
-/obj
-/obj/Debug/net8.0
+# Build klasörleri
+bin/
+obj/
+
+# .NET-specific dosyalar
+obj/**/*
+bin/**/*
+
+# Visual Studio ile ilgili geçici dosyalar
+.vs/
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log dosyalarý
+*.log
+
+# Build ve Debug çýktý dosyalarý
+*.dll
+*.exe
+*.pdb
+*.cache
