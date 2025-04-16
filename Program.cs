@@ -1,4 +1,4 @@
-using MediatoRTestApi.Database.DataAccess;
+using MediatoRTestApi.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

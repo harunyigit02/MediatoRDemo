@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MediatoRTestApi.Controllers
+namespace MediatoRTestApi.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

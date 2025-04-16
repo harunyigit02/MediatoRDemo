@@ -4,7 +4,7 @@ using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MediatoRTestApi.Controllers
+namespace MediatoRTestApi.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

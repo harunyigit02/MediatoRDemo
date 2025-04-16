@@ -1,5 +1,5 @@
 ﻿using MediatoRTestApi.Database;
-using MediatoRTestApi.Database.DataAccess;
+using MediatoRTestApi.Infrastructure.Persistence;
 using MediatoRTestApi.Queries;
 using MediatR;
 using Microsoft.EntityFrameworkCore;

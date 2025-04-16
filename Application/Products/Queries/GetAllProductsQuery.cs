@@ -1,4 +1,4 @@
-﻿using MediatoRTestApi.Database;
+﻿using MediatoRTestApi.Domain.Entities;
 using MediatR;
 
 namespace MediatoRTestApi.Queries
