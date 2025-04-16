@@ -25,3 +25,7 @@ bin/**/*
 *.exe
 *.pdb
 *.cache
+
+# App settings files
+appsettings.json
+appsettings.Development.json
